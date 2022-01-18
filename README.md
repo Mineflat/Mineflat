@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mineflat
+- 👀 I’m interested in C# development
+- 🌱 I’m currently learning .Net and crossplatform developing based on WPF and deep PC environment work learning
+- 💞️ I’m looking to collaborate with anyone who can help me to improve and my skills  
+- 📫 To contact me write on mineflat@yandex.ru 
